@@ -21,7 +21,26 @@ int main(){
 		cin>>str;
 		cout<<m[str]<<endl;
 	}
+	/*
 
+input-->
+8
+abc
+def
+abc
+ghj
+jkl
+ghj
+abc
+ghj
+2
+abc
+def
 
+output-->
+3
+1
+
+*/
 	return 0;
 }
